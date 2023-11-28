@@ -1,0 +1,16 @@
+.baslik-random {
+	text-align: center;
+}
+
+.baslik-kartlar {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.baslik-kazanan {
+	color: #4caf50;
+}
+
+.baslik-kaybeden {
+	color: #e91e63;
+}
